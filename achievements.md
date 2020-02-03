@@ -2,66 +2,66 @@
 
 ## Achievements
 
-[ ] Master of Infusion
+- [ ] Master of Infusion
 
-[ ] Master of Sorceries
+- [ ] Master of Sorceries
 
-[ ] Master of Pyromancies
+- [ ] Master of Pyromancies
 
-[ ] Master of Miracles
+- [ ] Master of Miracles
 
-[ ] Master of Rings
+- [ ] Master of Rings
 
-[ ] To Link the First Flame
+- [ ] To Link the First Flame
 
 ### Miracles
 
-[ ] Soothing Sunlight
+- [ ] Soothing Sunlight
 
-[ ] Sunlight Spear
+- [ ] Sunlight Spear
 
-[ ] Lightning Storm
+- [ ] Lightning Storm
 
-[ ] Darkmoon Blade
+- [ ] Darkmoon Blade
 
 ### Pyromancies
 
-[ ] Chaos bed vestiges
+- [ ] Chaos bed vestiges
 
-[ ] Warmth
+- [ ] Warmth
 
-[ ] Boulder Heave
+- [ ] Boulder Heave
 
 ### Sorceries
 
-[ ] White Dragon Breath
+- [ ] White Dragon Breath
 
-### Infusions
+### Infusio- ns
 
-[ ] Heavy
+- [ ] Hea- vy
 
-[ ] Raw
+- [ ] - Raw
 
-[ ] Simple
+- [ ] - Simple
 
-[ ] Chaos
+- [ ] - Chaos
 
-[ ] Blessed
+- [ ] - Blessed
 
-[ ] Dark
+- [ ] - Dark
 
-[ ] Poison
+- [ ] Poison
 
-[ ] Sharp
+- [ ] Sharp
 
-[ ] Crystal
+- [ ] Crystal
 
-[ ] Fire
+- [ ] Fire
 
-[ ] Lightning
+- [ ] Lightning
 
-[ ] Deep
+- [ ] Deep
 
-[ ] Blood
+- [ ] Blood
 
-[ ] Hollow
+- [ ] Hollow

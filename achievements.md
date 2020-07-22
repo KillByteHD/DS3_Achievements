@@ -84,7 +84,7 @@
 
 - [x] Flame Stoneplate Ring | +2 Version (NG++): Located in the Demon Ruins. From the Old King's Antechamber bonfire, go down the immediate stairs and follow the path until you come to a fork in the path. Left will be an illusionary wall where there will be a Black Knight fighting a Ghru. The ring will be on a corpse near a wall, along with a Black Knight Sword.
 
-- [ ] Thunder Stoneplate Ring | +2 Version (NG++): Farron Keep, the Keep Ruins bonfire. Leave the room where you find 3 Ghru enemies on a bridge. Cross the bridge, you can find a dilapidated wall to your left. In front of the wall is a flame you need to extinguish to reach the Abyss Watchers. The ring is behind this wall, you'll need to roll through some crucifixes to reach it.
+- [ ] Thunder Stoneplate Ring | +2 Version (NG++): Can be found before the Dragonslayer Armour Boss in Lothric Castle. Before the boss fight there's a door lit by torches. Proceed trough the door and up the stairs. Turn left trough another door then left again to find a hole in the stone railing. Drop down to the ledge below and turn right. Follow the ledge to find this ring. The ring is on the same small rooftop that you would drop down to get Caitha's Chime, it's just on the opposite end.
 
 - [ ] Covetous Gold Serpent Ring | +2 Version (NG++): Archdragon Peak, in a large area that appears on defeating the Nameless King, on the right side of the arena from the gateway that the bonfire is under, the ring rests at the top of the second stairway. You can also find the Dragonslayer Set and a Titanite Slab in this area.
 

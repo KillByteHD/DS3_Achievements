@@ -82,7 +82,7 @@
 
 - [ ] Magic Stoneplate Ring | +2 Version (NG++): Start from the Profaned Capital Bonfire.  Take the ladder down into the tower and head through the hole in the wall. From there, turn right and go down the stairs. The ring is at the end of the stairs, on the edge of a cliff.
 
-- [ ] Flame Stoneplate Ring | +2 Version (NG++): Located in the Demon Ruins. From the Old King's Antechamber bonfire, go down the immediate stairs and follow the path until you come to a fork in the path. Left will be an illusionary wall where there will be a Black Knight fighting a Ghru. The ring will be on a corpse near a wall, along with a Black Knight Sword.
+- [x] Flame Stoneplate Ring | +2 Version (NG++): Located in the Demon Ruins. From the Old King's Antechamber bonfire, go down the immediate stairs and follow the path until you come to a fork in the path. Left will be an illusionary wall where there will be a Black Knight fighting a Ghru. The ring will be on a corpse near a wall, along with a Black Knight Sword.
 
 - [ ] Thunder Stoneplate Ring | +2 Version (NG++): Farron Keep, the Keep Ruins bonfire. Leave the room where you find 3 Ghru enemies on a bridge. Cross the bridge, you can find a dilapidated wall to your left. In front of the wall is a flame you need to extinguish to reach the Abyss Watchers. The ring is behind this wall, you'll need to roll through some crucifixes to reach it.
 

@@ -76,9 +76,9 @@
 
 - [ ] Havel's Ring | +2 Version (NG++): On a wooden beam below the Prison Tower bonfire in Irithyll of the Boreal Valley/Anor Londo, after Painting Guardian Curved Sword and the Painting Guardian Set.
 
-- [ ] Ring of Favor | +2 Version (NG++): Located in the Cathedral of the Deep. From the Cleansing chapel bonfire, while facing the bonfire. go through the left shortcut, head up the elevator, climb the ladder behind the tower, drop down to the ledge, and follow the path to the top part of the chapel. To the left there is a hollow with a giant axe. behind him is this ring.
+- [x] Ring of Favor | +2 Version (NG++): Located in the Cathedral of the Deep. From the Cleansing chapel bonfire, while facing the bonfire. go through the left shortcut, head up the elevator, climb the ladder behind the tower, drop down to the ledge, and follow the path to the top part of the chapel. To the left there is a hollow with a giant axe. behind him is this ring.
 
-- [ ] Ring of Steel Protection | +2 Version (NG++): Located in the Catacombs of Carthus. From the Abyss Watchers Bonfire go down and head left until you find a bridge to your right. The bridge will be defended by a large skeleton carrying a sword and shield. Look down to the left and you will notice an item on a pillar. Drop down from the bridge onto the pillar to obtain this ring. Turn around to find the Carthus Pyromancy Tome.
+- [x] Ring of Steel Protection | +2 Version (NG++): Located in the Catacombs of Carthus. From the Abyss Watchers Bonfire go down and head left until you find a bridge to your right. The bridge will be defended by a large skeleton carrying a sword and shield. Look down to the left and you will notice an item on a pillar. Drop down from the bridge onto the pillar to obtain this ring. Turn around to find the Carthus Pyromancy Tome.
 
 - [ ] Magic Stoneplate Ring | +2 Version (NG++): Start from the Profaned Capital Bonfire.  Take the ladder down into the tower and head through the hole in the wall. From there, turn right and go down the stairs. The ring is at the end of the stairs, on the edge of a cliff.
 
